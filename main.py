@@ -15,7 +15,7 @@ import asyncio
 import sqlite3 as sq
 logging.basicConfig(level=logging.INFO)
 router: Router = Router()
-BOT_TOKEN = '6840000709:AAFhJxb9yqK5hkDrTD8P72qe9DwywfDy9lk'
+BOT_TOKEN = 'YOUR TOKEN BOT'
 films_repeat = []
 films_names = {}
 
